@@ -65,4 +65,31 @@ git diff feature...main # changed in main since feature was start off of it
 
 git diff quickfix main filename
 
+git merge abort
+
+evil merge
+
+
+git remote add <name> <remote-url>
+
+
+git fetch # move changes from remote to local
+
+git pull # combination of fetch and merge
+
+git push
+
+
+git remote update
+
+git ls-remote
+
+git push -u origin feature4
+
+
+git fetch origin feature4
+
+git checkout --track origin/feature4
+
+
 
